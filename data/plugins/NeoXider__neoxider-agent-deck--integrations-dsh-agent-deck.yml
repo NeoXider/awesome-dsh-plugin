@@ -1,0 +1,5 @@
+url: https://github.com/NeoXider/neoxider-agent-deck/tree/main/integrations/dsh-agent-deck
+name: NeoXider/neoxider-agent-deck#dsh-agent-deck
+category: ui
+description:
+  en: Opens the NeoXider Agent Deck desktop widget from a Harness session and reports whether it is installed, running and following the same Harness.
